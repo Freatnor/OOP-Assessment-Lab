@@ -1,5 +1,7 @@
 1. Describe the difference between a Class and an Object.
-    A class is the
+    A class is the piece of code that includes definitions and is responsible for any static values/functionality. It includes
+     any declarations of subclassing/interfacing, etc. The object is a specific instance of the class as a distinct group of
+     internal variables but has the structure and functionality defined in the class.
 
 
 2. What keyword do you use to turn a normal Class into a Subclass? (choose one)
