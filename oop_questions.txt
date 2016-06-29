@@ -1,27 +1,32 @@
 1. Describe the difference between a Class and an Object.
+    A class is the
 
 
 2. What keyword do you use to turn a normal Class into a Subclass? (choose one)
   a. implements
-  b. extends
+  b. extends  X
   c. uses
   d. sub
 
 
 3. Describe the difference between public and private?
+    public allows anything outside of the scope to see it, private only things within the scope it is defined.
 
 
 4. Can a subclass access a private method of its parent class? (choose one)
   a. Yes
-  b. No
+  b. No  X
 
 
 5. Define the term constructor.
+    it's a special method for each class that instantiates the class as an object in memory with it's own set of variables and such.
 
 
 6. Can you access a static method of a class without making an instance of it? (choose one)
-  a. Yes
+  a. Yes X
   b. No
 
 
 7. Describe the purpose of overriding a method.
+    overloading allows the developer to have a subclass have the same method signature as any super class but different
+    implementation. This can be useful when a class/object wants to have the same method, like "toString()", output something different from the parent
